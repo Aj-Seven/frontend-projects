@@ -8,10 +8,10 @@ Sample solution for the [custom-dropdown](https://roadmap.sh/projects/custom-dro
 
 ---
 
-- [Custom Roadmap](https://roadmap.sh/projects/basic-html-website) - _Web app_
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) - _Web app_
 
 - Live Demo [here](https://aj-seven.github.io/frontend-projects/basic-html-website)
 
-Sample solution for the [custom-roadmap](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap](https://roadmap.sh)
+Sample solution for the [basic-html-website](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap](https://roadmap.sh)
 
 ---
