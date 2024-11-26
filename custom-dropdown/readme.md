@@ -8,12 +8,12 @@ Custom Dropdown Menu
 
 **Clone the Repository**
 
-   ```bash
-   git clone --depth=1 https://github.com/Aj-Seven/frontend-projects
+```bash
+git clone --depth=1 https://github.com/Aj-Seven/frontend-projects
 
-   # Navigate to the project Directory
-   cd frontend-projects/custom-dropdown
-   ```
+# Navigate to the project Directory
+cd frontend-projects/custom-dropdown
+```
 
 **Now Open the `index.html` file via any browser**
 
