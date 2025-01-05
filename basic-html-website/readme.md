@@ -2,7 +2,7 @@
 
 Sample solution for the [basic-html-website](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap](https://roadmap.sh)
 
-Custom Dropdown Menu
+Basic Structure of HTML
 
 ## Installation
 
