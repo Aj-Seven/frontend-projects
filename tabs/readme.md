@@ -1,0 +1,22 @@
+# Simple Tabs
+
+Sample solution for the [simple-tabs](https://roadmap.sh/projects/simple-tabs) challenge from [roadmap](https://roadmap.sh)
+
+Basic Structure of HTML
+
+## Installation
+
+**Clone the Repository**
+
+```bash
+git clone --depth=1 https://github.com/Aj-Seven/frontend-projects
+
+# Navigate to the project Directory
+cd frontend-projects/tabs
+```
+
+**Now Open the `index.html` file via any browser**
+
+## Live Demo
+
+- You can view working demo [here](https://aj-seven.github.io/frontend-projects/tabs)
