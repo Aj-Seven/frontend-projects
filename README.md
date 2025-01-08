@@ -15,3 +15,11 @@ Sample solution for the [custom-dropdown](https://roadmap.sh/projects/custom-dro
 Sample solution for the [basic-html-website](https://roadmap.sh/projects/basic-html-website) challenge from [roadmap](https://roadmap.sh)
 
 ---
+
+- [Simple Tabs](https://roadmap.sh/projects/simple-tabs) - _Web app_
+
+- Live Demo [here](https://aj-seven.github.io/frontend-projects/tabs)
+
+Sample solution for the [simple-tabs](https://roadmap.sh/projects/simple-tabs) challenge from [roadmap](https://roadmap.sh)
+
+----
